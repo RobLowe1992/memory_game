@@ -1144,7 +1144,7 @@
 		},
 	"\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
